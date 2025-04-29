@@ -1,0 +1,8 @@
+streamlit
+yfinance
+tensorflow
+pandas
+matplotlib
+japanize-matplotlib
+scikit-learn
+statsmodels
